@@ -1,0 +1,11 @@
+cn\itcast\order\mapper\OrderMapper.class
+cn\itcast\order\service\OrderService.class
+cn\itcast\order\mapper\goodsMapper.class
+cn\itcast\order\web\GoodsController.class
+cn\itcast\order\sentinel\SentinelExceptionHandler.class
+cn\itcast\order\service\goodsService.class
+cn\itcast\order\web\OrderController.class
+cn\itcast\order\pojo\goods.class
+cn\itcast\order\OrderApplication.class
+cn\itcast\order\pojo\Order.class
+cn\itcast\order\sentinel\HeaderOriginParser.class

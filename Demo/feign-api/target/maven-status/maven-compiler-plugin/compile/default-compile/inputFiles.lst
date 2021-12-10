@@ -1,0 +1,7 @@
+C:\Users\QQ145\Desktop\Demo\feign-api\src\main\java\cn\itcast\feign\clients\GoodsCategoryClient.java
+C:\Users\QQ145\Desktop\Demo\feign-api\src\main\java\cn\itcast\feign\config\DefaultFeignConfiguration.java
+C:\Users\QQ145\Desktop\Demo\feign-api\src\main\java\cn\itcast\feign\pojo\User.java
+C:\Users\QQ145\Desktop\Demo\feign-api\src\main\java\cn\itcast\feign\clients\fallback\UserClientFallbackFactory.java
+C:\Users\QQ145\Desktop\Demo\feign-api\src\main\java\cn\itcast\feign\pojo\goods_category.java
+C:\Users\QQ145\Desktop\Demo\feign-api\src\main\java\cn\itcast\feign\clients\fallback\GoodsCategoryFallbackFactory.java
+C:\Users\QQ145\Desktop\Demo\feign-api\src\main\java\cn\itcast\feign\clients\UserClient.java

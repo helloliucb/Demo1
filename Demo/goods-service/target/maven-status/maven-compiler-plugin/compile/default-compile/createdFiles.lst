@@ -1,0 +1,14 @@
+cn\itcast\user\service\goodsCategoryService.class
+cn\itcast\user\pojo\goods_category.class
+cn\itcast\user\service\UserService.class
+cn\itcast\user\web\UserController.class
+cn\itcast\user\web\GoodsCategoryController.class
+cn\itcast\user\web\GoodsController.class
+cn\itcast\user\pojo\User.class
+cn\itcast\user\mapper\UserMapper.class
+cn\itcast\user\mapper\goodsMapper.class
+cn\itcast\user\mapper\goodsCategoryMapper.class
+cn\itcast\user\pojo\goods.class
+cn\itcast\user\service\goodsService.class
+cn\itcast\user\UserApplication.class
+cn\itcast\user\config\PatternProperties.class
